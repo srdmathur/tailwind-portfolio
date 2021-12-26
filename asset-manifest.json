@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tailwind-portfolio.git/static/css/main.6206d835.css",
-    "main.js": "/tailwind-portfolio.git/static/js/main.f1db4f4b.js",
-    "static/media/1548386651506.jpeg": "/tailwind-portfolio.git/static/media/1548386651506.c61d3247539b85e68fda.jpeg",
-    "index.html": "/tailwind-portfolio.git/index.html",
-    "main.6206d835.css.map": "/tailwind-portfolio.git/static/css/main.6206d835.css.map",
-    "main.f1db4f4b.js.map": "/tailwind-portfolio.git/static/js/main.f1db4f4b.js.map"
+    "main.css": "/tailwind-portfolio/static/css/main.6206d835.css",
+    "main.js": "/tailwind-portfolio/static/js/main.e86a2abf.js",
+    "static/media/1548386651506.jpeg": "/tailwind-portfolio/static/media/1548386651506.c61d3247539b85e68fda.jpeg",
+    "index.html": "/tailwind-portfolio/index.html",
+    "main.6206d835.css.map": "/tailwind-portfolio/static/css/main.6206d835.css.map",
+    "main.e86a2abf.js.map": "/tailwind-portfolio/static/js/main.e86a2abf.js.map"
   },
   "entrypoints": [
     "static/css/main.6206d835.css",
-    "static/js/main.f1db4f4b.js"
+    "static/js/main.e86a2abf.js"
   ]
 }
